@@ -33,8 +33,10 @@ Giao diện trên localhost:
 ![image](https://user-images.githubusercontent.com/94958811/206072163-47e7269a-508c-4742-b40f-ffa597e5d5bc.png)
 
 Demo tính diện tích:
+
 ![image](https://user-images.githubusercontent.com/94958811/206072144-cd85f493-71e9-4f2c-ac29-a732f7107ef0.png)
 
 
 Demo tính chu vi:
+
 ![image](https://user-images.githubusercontent.com/94958811/206072119-673cbd43-082e-441f-ac92-e07c67333f4a.png)
