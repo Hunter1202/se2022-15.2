@@ -20,7 +20,7 @@ Kết quả sau khi build và run image
 Tuy nhiên em đang gặp lỗi khi code nên em sẽ sửa trong tuần tới
 ![image](https://user-images.githubusercontent.com/94958811/206072368-c4955038-e72a-4cd1-9c12-029edafbdad4.png)
 
-***********************************
+------------------------------------
 
 TUẦN LÀM VIỆC THỨ HAI (27/11 - 3/12)
 - Tuần này em đã tạo 1 web servlet cơ bản tính chu vi và diện tích hình tam giác chạy trên localhost qua Tomcat 9:
@@ -40,3 +40,5 @@ Demo tính diện tích:
 Demo tính chu vi:
 
 ![image](https://user-images.githubusercontent.com/94958811/206072119-673cbd43-082e-441f-ac92-e07c67333f4a.png)
+
+------------------------------------
