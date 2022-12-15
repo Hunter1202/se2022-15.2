@@ -1,28 +1,32 @@
 # se2022-15.2
 
-
-
-
-# TUẦN LÀM VIỆC THỨ NHẤT 
-
-Tuần này bọn em đã xem xong video giới thiệu về Docker, nắm được các khái niệm, cách cài đặt và sử dụng Docker về mặt cơ bản.
-
-Dưới đây là demo image em Build dựa trên image gốc ubuntu latest:
-
-![image](https://user-images.githubusercontent.com/94958811/206072273-1d24b878-6ebb-4636-93b3-4b77758d90d5.png)
-
-Kết quả sau khi build và run image
-![image](https://user-images.githubusercontent.com/94958811/206072319-7c490c21-6bfa-4330-8902-25044eda19d5.png)
-
-Đồng thời em cũng đang triển khai 1 soap web service phục vụ cho việc deploy lên docker
-![image](https://user-images.githubusercontent.com/94958811/206072345-19f79576-df34-43fa-8f77-a75730723e62.png)
-![image](https://user-images.githubusercontent.com/94958811/206072358-587decce-eea9-4321-bd9e-193ed6b93cf0.png)
-Tuy nhiên em đang gặp lỗi khi code nên em sẽ sửa trong tuần tới
-![image](https://user-images.githubusercontent.com/94958811/206072368-c4955038-e72a-4cd1-9c12-029edafbdad4.png)
+# Project Backlog: https://github.com/users/Hunter1202/projects/5
 
 *
 *
 *
+# TUẦN LÀM VIỆC THỨ BA (4/12 - 12/12)
+- Bọn em đã tạo webservice đăng ký cơ bản
+![image](https://user-images.githubusercontent.com/94958811/207768666-dd0f0ca9-d3b2-4ef3-b6cf-dd6defc758f4.png)
+
+- Giao diện sử dụng 
+
++ Nhập thông tin
+
+![image](https://user-images.githubusercontent.com/94958811/207768866-6e67b53c-4923-4843-9188-9e42cddcf60c.png)
++ Xuất thông tin
+
+![image](https://user-images.githubusercontent.com/94958811/207770267-fca57813-7221-4025-a952-a1db7409381e.png)
+
+- Kết nối tới cơ sở dữ liệu
+
+![image](https://user-images.githubusercontent.com/94958811/207770388-c8c83a9a-8cbc-4cbc-90a1-e1096c9d3315.png)
+
+code
+![image](https://user-images.githubusercontent.com/94958811/207770718-41db90e4-c228-4b99-ae2a-f5d3173a9e80.png)
+
+
+****************************
 
 # TUẦN LÀM VIỆC THỨ HAI (27/11 - 3/12)
 - Tuần này em đã tạo 1 web servlet cơ bản tính chu vi và diện tích hình tam giác chạy trên localhost qua Tomcat 9:
@@ -43,4 +47,27 @@ Demo tính chu vi:
 
 ![image](https://user-images.githubusercontent.com/94958811/206072119-673cbd43-082e-441f-ac92-e07c67333f4a.png)
 
-------------------------------------
+****************************
+
+# TUẦN LÀM VIỆC THỨ NHẤT 
+
+Tuần này bọn em đã xem xong video giới thiệu về Docker, nắm được các khái niệm, cách cài đặt và sử dụng Docker về mặt cơ bản.
+
+Dưới đây là demo image em Build dựa trên image gốc ubuntu latest:
+
+![image](https://user-images.githubusercontent.com/94958811/206072273-1d24b878-6ebb-4636-93b3-4b77758d90d5.png)
+
+Kết quả sau khi build và run image
+![image](https://user-images.githubusercontent.com/94958811/206072319-7c490c21-6bfa-4330-8902-25044eda19d5.png)
+
+Đồng thời em cũng đang triển khai 1 soap web service phục vụ cho việc deploy lên docker
+![image](https://user-images.githubusercontent.com/94958811/206072345-19f79576-df34-43fa-8f77-a75730723e62.png)
+![image](https://user-images.githubusercontent.com/94958811/206072358-587decce-eea9-4321-bd9e-193ed6b93cf0.png)
+Tuy nhiên em đang gặp lỗi khi code nên em sẽ sửa trong tuần tới
+![image](https://user-images.githubusercontent.com/94958811/206072368-c4955038-e72a-4cd1-9c12-029edafbdad4.png)
+
+****************************
+
+
+
+
