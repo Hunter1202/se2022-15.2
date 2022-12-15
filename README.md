@@ -7,9 +7,10 @@
 *
 # TUẦN LÀM VIỆC THỨ BA (4/12 - 12/12)
 - Bọn em đã tạo webservice đăng ký cơ bản
-![image](https://user-images.githubusercontent.com/94958811/207768666-dd0f0ca9-d3b2-4ef3-b6cf-dd6defc758f4.png)
+
 
 - Giao diện sử dụng 
+![image](https://user-images.githubusercontent.com/94958811/207770866-e1a2b1d7-a07b-4103-8ee5-df4b6191e471.png)
 
 + Nhập thông tin
 
