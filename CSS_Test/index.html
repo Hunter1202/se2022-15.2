@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="ISO-8859-1">
+    <title>Sign in Form</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <form action="/mo/dang-ky.php" method="post">
+      <div class="form">
+        <p> đăng nhập:</p><input class="username" placeholder="username" name="username"><br>
+        <br><p>Mật khẩu:</p><input class="password" placeholder="password" name="password" type="password"><br>
+        <br><p>Giới tính:</p><select class="gender" name="gender">
+          <option value="Nam">Nam</option>
+          <option value="Nu">Nữ</option>
+          <option value="Khac">Khác</option>
+        </select><br>
+        <br><p>Ngày sinh:</p><input class="birthday" name="birthday" type="date">
+        <br></br>
+            <p>Tình trạng hôn nhân:</p><br>
+            <input class="married" name="married" type="radio" value="Đã kết hôn"><span>Đã kết hôn</span><br>
+            <input class="alone" name="married" type="radio" value="Độc thân"><span>Độc thân</span><br>
+            <input class="diff" name="married" type="radio" value="Diff"><span>Khác</span><br>
+        <br>
+        <p>Sở thích:</p>
+        <input class="read" name="hobbies" type="checkbox" value="Doc sach">Đọc sách
+        <input class="travel" name="hobbies" type="checkbox" value="Du lich">Du lịch
+        <input class="music" name="hobbies" type="checkbox" value="Am nhac">Âm nhạc
+        <input class="difference" name="hobbies" type="checkbox" value="Khac">Khác<br>
+        <br><p>Quốc tịch:</p><input class="country" name="country" placeholder="country"><br>
+        <br><p>Ghi chú:</p>
+        <br><textarea class="note" name="notes" rows="3" cols="30"></textarea><hr>
+        <p>Đồng ý với điều khoản sử dụng :</p><br>
+          <input name="deptrai" type="radio" value="A">Có <br>
+          <input name="deptrai" type="radio" value="B">Không<br>
+          <input name="deptrai" type="radio" value="B">Khác<br>
+          <br>
+            <button class="signin-btn">Đăng nhập</button>
+      </div>
+    </form>    
+  </body>
+</html>
