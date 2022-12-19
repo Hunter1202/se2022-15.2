@@ -1,6 +1,12 @@
-# se2022-15.2
+# SE2022-15.2
+Gồm các thành viên:
+* Lã Anh Trúc - 20002169 (C) 
+* Khuất Đăng Sơn - 20002159
+* Hoàng Hữu Hiếu - 20002125
+* Chu Phạm Đình Tú - 20002173
 
-# Project Backlog: https://github.com/users/Hunter1202/projects/5
+# Đề Tài: Back-End mastering với các công nghệ CI/CD/Cloud hiện đại
+#Project Backlog: https://github.com/users/Hunter1202/projects/5
 
 *
 *
