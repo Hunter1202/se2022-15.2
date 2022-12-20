@@ -10,13 +10,13 @@ Các thành viên:
 
 
 # ĐỀ TÀI: Back-End mastering với các công nghệ CI/CD/Cloud hiện đại
-* Ý tưởng: "Dành cho các bạn muốn trở thành master về back-end và kiến trúc hệ thống cloud:
+
   - Tự động triển khai dự án phần mềm với Github Action
-  - Nghiên cứu docker/k8s, triển khai một dịch vụ đơn giản.
+  - Nghiên cứu docker, triển khai một dịch vụ đơn giản.
   - SV cùng mentor xây dựng đề bài và giải quyết vấn đề
 
 * Project Backlog: https://github.com/users/Hunter1202/projects/5
-* Docker file:
+* Dockerfile:
  ```php
           FROM tomcat:9.0.70-jdk17-corretto-al2
 
@@ -31,15 +31,15 @@ Các thành viên:
 
 
 # TUẦN LÀM VIỆC THỨ BA (4/12 - 12/12)
-- Bọn em đã tạo webservice đăng ký cơ bản
+- Bọn em đã tạo 1 website đăng ký
 
 
-- Giao diện sử dụng 
-![Logo](https://user-images.githubusercontent.com/94958811/207770866-e1a2b1d7-a07b-4103-8ee5-df4b6191e471.png)
+- Giao diện sử dụng:
 
 + Nhập thông tin
 
 ![image](https://user-images.githubusercontent.com/94958811/207768866-6e67b53c-4923-4843-9188-9e42cddcf60c.png)
+
 + Xuất thông tin
 
 ![image](https://user-images.githubusercontent.com/94958811/207770267-fca57813-7221-4025-a952-a1db7409381e.png)
@@ -48,8 +48,7 @@ Các thành viên:
 
 ![image](https://user-images.githubusercontent.com/94958811/207770388-c8c83a9a-8cbc-4cbc-90a1-e1096c9d3315.png)
 
-code
-![image](https://user-images.githubusercontent.com/94958811/207771013-eb73add1-a51d-4e29-a8c8-d99e40bdae49.png)
+src code: https://github.com/Hunter1202/se2022-15.2/blob/main/source.zip
 
 
 ****************************
@@ -67,7 +66,6 @@ Giao diện trên localhost:
 Demo tính diện tích:
 
 ![image](https://user-images.githubusercontent.com/94958811/206072144-cd85f493-71e9-4f2c-ac29-a732f7107ef0.png)
-
 
 Demo tính chu vi:
 
