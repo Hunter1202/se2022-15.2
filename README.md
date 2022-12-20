@@ -1,5 +1,7 @@
-#                                                       SE2022-15.2
+![Gif](https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif)
 
+#                                                   Nhóm:    SE2022-15.2
+![image](https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.15752-9/318555024_1329625234477079_3514193759606326494_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=c_qTARUiAOYAX_j-7kC&_nc_ht=scontent.fsgn2-5.fna&oh=03_AdSjcKzlW7fPImTIFj62kVm2HulUSDqOa92_CHKXSkyvYQ&oe=63C811BF)
 Các thành viên:
 * Lã Anh Trúc - 20002169 (C) 
 * Khuất Đăng Sơn - 20002159
@@ -8,14 +10,32 @@ Các thành viên:
 
 
 # ĐỀ TÀI: Back-End mastering với các công nghệ CI/CD/Cloud hiện đại
+* Ý tưởng: "Dành cho các bạn muốn trở thành master về back-end và kiến trúc hệ thống cloud:
+  - Tự động triển khai dự án phần mềm với Github Action
+  - Nghiên cứu docker/k8s, triển khai một dịch vụ đơn giản.
+  - SV cùng mentor xây dựng đề bài và giải quyết vấn đề
+
 * Project Backlog: https://github.com/users/Hunter1202/projects/5
+* Docker file:
+ ```php
+          FROM tomcat:9.0.70-jdk17-corretto-al2
+
+          MAINTAINER trucla
+
+          RUN mv webapps webapps2 && mv webapps.dist webapps
+          ADD build/javaweb.war /usr/local/tomcat/webapps/
+          EXPOSE 8080
+          RUN chmod +x /usr/local/tomcat/bin/catalina.sh
+          CMD ["catalina.sh", "run"] -b 0.0.0.0
+```
+
 
 # TUẦN LÀM VIỆC THỨ BA (4/12 - 12/12)
 - Bọn em đã tạo webservice đăng ký cơ bản
 
 
 - Giao diện sử dụng 
-![image](https://user-images.githubusercontent.com/94958811/207770866-e1a2b1d7-a07b-4103-8ee5-df4b6191e471.png)
+![Logo](https://user-images.githubusercontent.com/94958811/207770866-e1a2b1d7-a07b-4103-8ee5-df4b6191e471.png)
 
 + Nhập thông tin
 
