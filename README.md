@@ -25,7 +25,7 @@
 * Hoàng Hữu Hiếu - 20002125
 * Chu Phạm Đình Tú - 20002173
 
-# Teck Stack
+# Tech Stack
 ### Back-end
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
