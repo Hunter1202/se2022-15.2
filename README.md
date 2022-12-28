@@ -2,11 +2,11 @@
 ![image](https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.15752-9/318555024_1329625234477079_3514193759606326494_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=c_qTARUiAOYAX_j-7kC&_nc_ht=scontent.fsgn2-5.fna&oh=03_AdSjcKzlW7fPImTIFj62kVm2HulUSDqOa92_CHKXSkyvYQ&oe=63C811BF)
 # <p align="center">ĐỀ TÀI: Back-End mastering với các công nghệ CI/CD/Cloud hiện đại</p>
 <p align="center">
- <a href="https://github.com/Hunter1202/se2022-15.2#tu%E1%BA%A7n-l%C3%A0m-vi%E1%BB%87c-th%E1%BB%A9-nh%E1%BA%A5t">Báo cáo tuần 1</a>
+ <a href="https://github.com/Hunter1202/se2022-15.2/edit/main/README.md#2011---2711">Báo cáo tuần 1</a>
  .
- <a href="https://github.com/Hunter1202/se2022-15.2#tu%E1%BA%A7n-l%C3%A0m-vi%E1%BB%87c-th%E1%BB%A9-hai-2711---312">Báo cáo tuần 2</a>
+ <a href="https://github.com/Hunter1202/se2022-15.2/edit/main/README.md#2711---312">Báo cáo tuần 2</a>
  .
- <a href="https://github.com/Hunter1202/se2022-15.2#tu%E1%BA%A7n-l%C3%A0m-vi%E1%BB%87c-th%E1%BB%A9-ba-412---1212">Báo cáo tuần 3</a>
+ <a href="https://github.com/Hunter1202/se2022-15.2/edit/main/README.md#412---1212">Báo cáo tuần 3</a>
  .
  <a href="https://github.com/Hunter1202/se2022-15.2/edit/main/README.md#1212---2112">Báo cáo tuần 4</a>
  .
