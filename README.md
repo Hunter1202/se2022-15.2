@@ -16,25 +16,9 @@ Các thành viên:
   - SV cùng mentor xây dựng đề bài và giải quyết vấn đề
 
 * Project Backlog: https://github.com/users/Hunter1202/projects/5
-* Dockerfile:
- ```php
-          FROM tomcat:9.0.70-jdk17-corretto-al2
-
-          MAINTAINER trucla
-
-          RUN mv webapps webapps2 && mv webapps.dist webapps
-          ADD build/javaweb.war /usr/local/tomcat/webapps/
-          EXPOSE 8080
-          RUN chmod +x /usr/local/tomcat/bin/catalina.sh
-          CMD ["catalina.sh", "run"] -b 0.0.0.0
-```
-
 
 # TUẦN LÀM VIỆC THỨ BA (4/12 - 12/12)
-- Bọn em đã tạo 1 website đăng ký
-
-
-- Giao diện sử dụng:
+- Tạo 1 website đăng ký
 
 + Nhập thông tin
 
@@ -44,7 +28,7 @@ Các thành viên:
 
 ![image](https://user-images.githubusercontent.com/94958811/207770267-fca57813-7221-4025-a952-a1db7409381e.png)
 
-- Kết nối tới cơ sở dữ liệu
+- Kết nối tới cơ sở dữ liệu mysql
 
 ![image](https://user-images.githubusercontent.com/94958811/207770388-c8c83a9a-8cbc-4cbc-90a1-e1096c9d3315.png)
 
