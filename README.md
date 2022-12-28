@@ -67,15 +67,20 @@ CMD ["catalina.sh", "run"] -b 0.0.0.0
 
 ## 4/12 - 12/12
 Tạo 1 website đăng ký 
-+ Nhập thông tin
+* Cấu trúc Project
+
+![image](https://user-images.githubusercontent.com/94958811/209757229-ae9ab527-366b-40fe-ae98-00372f0c46af.png)
+
+
+* Nhập thông tin
 
 ![image](https://user-images.githubusercontent.com/94958811/209754269-c9e958c6-76a1-4df8-85df-62ad7a0b45d5.png)
 
-+ Xuất thông tin
+* Xuất thông tin
 
 ![image](https://user-images.githubusercontent.com/94958811/207770267-fca57813-7221-4025-a952-a1db7409381e.png)
 
-- Kết nối tới cơ sở dữ liệu mysql
+* Kết nối tới cơ sở dữ liệu mysql
 
 ![image](https://user-images.githubusercontent.com/94958811/207770388-c8c83a9a-8cbc-4cbc-90a1-e1096c9d3315.png)
 
@@ -131,5 +136,6 @@ Tuy nhiên em đang gặp lỗi khi code nên em sẽ sửa trong tuần tới
 ![image](https://user-images.githubusercontent.com/94958811/206072368-c4955038-e72a-4cd1-9c12-029edafbdad4.png)
 
 ****************************
+<p align="center"><a href="https://github.com/Hunter1202/se2022-15.2#-nh%C3%B3m-se2022-152-">HOME PAGE</a></p>
 
 
