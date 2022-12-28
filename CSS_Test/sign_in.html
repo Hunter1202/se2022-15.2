@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Sign_In_Form</title>
+</head>
+<body>
+<form action="/mo/dang-ky.php" method="post">
+<h1></h1>
+Tên đăng nhập: <input name="username"><br>
+<br>
+Mật khẩu: <input name="password" type="password"><br>
+<br>
+Giới tính: <select name="gender">
+<option value="Nam">Nam</option>
+<option value="Nu">Nữ</option>
+<option value="Khac">Khác</option>
+</select><br>
+<br>
+Ngày sinh:
+<input name="birthday" type="date">
+<br></br>
+Tỉnh trạng hôn nhân:<br>
+<input name="married" type="radio" value="Đã kết hôn">Đã kết hôn<br>
+<input name="married" type="radio" value="Độc thân">Độc thân<br>
+<input name="married" type="radio" value="Diff">Khác<br>
+<br>
+Sở thích:
+<input name="hobbies" type="checkbox" value="Doc sach">Đọc sách
+<input name="hobbies" type="checkbox" value="Du lich">Du lịch
+<input name="hobbies" type="checkbox" value="Am nhac">Âm nhạc
+<input name="hobbies" type="checkbox" value="Khac">Khác<br>
+<br>
+
+Quốc tịch: <input name="country"><br>
+<br>
+
+Ghi chú:
+<br> 
+<textarea name="notes" rows="3" cols="30"></textarea>
+<hr>
+
+Đồng ý với điều khoản sử dụng :<br>
+<input name="deptrai" type="radio" value="A">Có <br>
+<input name="deptrai" type="radio" value="B">Không<br>
+<input name="deptrai" type="radio" value="B">Khác<br>
+<br>
+<button>Đăng nhập</button>
+</form>
+</body>
+</html>
