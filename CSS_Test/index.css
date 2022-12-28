@@ -1,10 +1,12 @@
-/*@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');*/
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: Roboto, Arial;
+  font-size: 22px;
 }
 
 p{
@@ -18,7 +20,6 @@ input.married, input.alone, input.diff{
   cursor: pointer;
   background: #111;
   text-align: center;
-
 }
 
 span{
@@ -54,7 +55,7 @@ div{
   justify-content: center;
   border-radius: 15px;
   position: relative;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.1);
 }
 
 input{
@@ -64,13 +65,6 @@ input{
 
 textarea{
   margin-left: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  color: gray;
-  max-width: fit-content;
-  max-height: fit-content;
 }
 
 .username{
@@ -93,10 +87,11 @@ textarea{
   padding-bottom: 8px;
   padding-left: 13px;
   padding-right: 13px;
+  margin-left: 103px;
 }
 
 .gender{
-  margin-left: 20px;
+  margin-left: 110px;
   font-size: 16px;
   border: none;
   border-radius: 100px;
@@ -109,7 +104,7 @@ textarea{
 }
 
 .birthday{
-  margin-left: 20px;
+  margin-left: 95px;
   font-size: 16px;
   border: none;
   border-radius: 100px;
@@ -144,8 +139,32 @@ textarea{
   margin-top: 20px;
 }
 
-.signin-btn{
-  margin-left: 240px;
+.sign-btn{
+  margin-left: 252px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  background-color: rgb(176, 68, 68);
+  color: whitesmoke;
+  font-size: 20px;
+  border: none;
+  border-radius: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.sign-btn:hover{
+  opacity: 0.8;
+}
+
+.sign-btn:active{
+  opacity: 0.5;
+}
+
+.reset-btn{
+  margin-left: 264px;
   margin-bottom: 50px;
   margin-top: 20px;
   background-color: rgb(176, 68, 68);
@@ -160,17 +179,16 @@ textarea{
   box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
 }
 
-.signin-btn:hover{
+.reset-btn:hover{
   opacity: 0.8;
 }
 
-.signin-btn:active{
-  opacity: 0.5;
+.reset-btn:active{
+  opacity: 0.4;
 }
 
-.read, .travel, .music, .difference{
-  margin-left: 20px;  
+.read, .travel, .game, .music, .difference{
+  margin-left: 30px;  
 }
-
 
 
