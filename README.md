@@ -136,6 +136,8 @@ Tuy nhiên em đang gặp lỗi khi code nên em sẽ sửa trong tuần tới
 ![image](https://user-images.githubusercontent.com/94958811/206072368-c4955038-e72a-4cd1-9c12-029edafbdad4.png)
 
 ****************************
-<p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><a href="https://github.com/Hunter1202/se2022-15.2#-nh%C3%B3m-se2022-152-">HOME PAGE</a></p>
+<p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><a href="[https://github.com/Hunter1202/se2022-15.2#-nh%C3%B3m-se2022-152-](https://github.com/Hunter1202/se2022-15.2/blob/main/README.md#-nh%C3%B3m-se2022-152--)">HOME PAGE</a></p>
+
+
 
 
